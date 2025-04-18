@@ -1,0 +1,1 @@
+copy ..\isbn\bin\Release\isbn.dll .
